@@ -1,0 +1,6 @@
+# Python and PyCharm installers, packages...
+Downloads/**
+# PyCharm project files
+**/.idea
+# Virual environments
+**/venv
